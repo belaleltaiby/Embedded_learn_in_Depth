@@ -1,0 +1,25 @@
+Belal@DESKTOP-PKR2U6N MINGW32 /h/embeded for me 2/course/unit 3/lesson2/LAB
+$ arm-none-eabi-nm.exe learn-in-depth.elf
+0001007c D Arrstr
+0001000c T main
+00010000 T reset
+000110e0 D Stack_Top
+00010008 t stop
+0001002c T Uart_send_str
+
+Belal@DESKTOP-PKR2U6N MINGW32 /h/embeded for me 2/course/unit 3/lesson2/LAB
+$ arm-none-eabi-nm.exe app.o
+00000000 D Arrstr
+00000000 T main
+         U Uart_send_str
+
+Belal@DESKTOP-PKR2U6N MINGW32 /h/embeded for me 2/course/unit 3/lesson2/LAB
+$ arm-none-eabi-nm.exe uart.o
+00000000 T Uart_send_str
+
+Belal@DESKTOP-PKR2U6N MINGW32 /h/embeded for me 2/course/unit 3/lesson2/LAB
+$ arm-none-eabi-nm.exe startup.o
+         U main
+00000000 T reset
+00000008 t stop
+

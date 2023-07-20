@@ -1,0 +1,5 @@
+stm32_f103c6_drivers_SPI.c:29:6:MCAL_SPI_INIT	6
+stm32_f103c6_drivers_SPI.c:91:6:MCAL_SPI_DeINIT	2
+stm32_f103c6_drivers_SPI.c:106:6:MCAL_SPI_SendData	3
+stm32_f103c6_drivers_SPI.c:118:6:MCAL_SPI_ReceiveData	3
+stm32_f103c6_drivers_SPI.c:126:6:MCAL_SPI_TX_RX	5
