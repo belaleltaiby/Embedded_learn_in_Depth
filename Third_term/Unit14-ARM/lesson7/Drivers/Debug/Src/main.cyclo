@@ -1,0 +1,5 @@
+main.c:40:6:PendSV_Handler	1
+main.c:43:6:OS_SVC	5
+main.c:69:27:SVC_Handler	1
+main.c:79:5:OS_SVC_Set	5
+main.c:102:5:main	2

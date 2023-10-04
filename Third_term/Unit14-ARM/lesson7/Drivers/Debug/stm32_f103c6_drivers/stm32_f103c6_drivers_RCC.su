@@ -1,0 +1,4 @@
+../stm32_f103c6_drivers/stm32_f103c6_drivers_RCC.c:18:10:Mcal_Get_SYSCLK_frq	4	static
+../stm32_f103c6_drivers/stm32_f103c6_drivers_RCC.c:41:10:Mcal_Get_HCLK_frq	8	static
+../stm32_f103c6_drivers/stm32_f103c6_drivers_RCC.c:59:10:Mcal_Get_PCLK1_frq	8	static
+../stm32_f103c6_drivers/stm32_f103c6_drivers_RCC.c:75:10:Mcal_Get_PCLK2_frq	8	static
