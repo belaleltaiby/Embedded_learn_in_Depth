@@ -1,0 +1,9 @@
+LCD.c:17:6:LCD_Init	5
+LCD.c:88:6:LCD_SendChar	1
+LCD.c:97:6:LCD_SendString	2
+LCD.c:110:6:LCD_SendCommand	5
+LCD.c:142:13:LCD_SendData	5
+LCD.c:173:6:LCD_Clear	1
+LCD.c:179:6:LCD_writeNumber	8
+LCD.c:214:6:LCD_GoTo	5
+LCD.c:239:6:LCD_CustomChar	2

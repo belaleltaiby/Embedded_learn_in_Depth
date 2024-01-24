@@ -1,0 +1,17 @@
+../STM32F103C8T6_NVIC/NVIC.c:15:12:Get_IPRx_Position	16	static
+../STM32F103C8T6_NVIC/NVIC.c:21:12:Get_IPR_reg_num	16	static
+../STM32F103C8T6_NVIC/NVIC.c:25:6:NVIC_void_Init	4	static
+../STM32F103C8T6_NVIC/NVIC.c:34:6:NVIC_EnableIRQ	16	static
+../STM32F103C8T6_NVIC/NVIC.c:51:6:NVIC_DisableIRQ	16	static
+../STM32F103C8T6_NVIC/NVIC.c:67:7:NVIC_SetPendingIRQ	16	static
+../STM32F103C8T6_NVIC/NVIC.c:83:7:NVIC_ClearPendingIRQ	16	static
+../STM32F103C8T6_NVIC/NVIC.c:98:6:NVIC_GetPendingIRQ	16	static
+../STM32F103C8T6_NVIC/NVIC.c:114:7:NVIC_GetActive	16	static
+../STM32F103C8T6_NVIC/NVIC.c:130:6:NVIC_SetPriorityGrouping	16	static
+../STM32F103C8T6_NVIC/NVIC.c:135:6:NVIC_SetPriority	16	static
+../STM32F103C8T6_NVIC/NVIC.c:145:6:NVIC_GetPriority	24	static
+../STM32F103C8T6_NVIC/NVIC.c:155:6:NVIC_voidEnableAllPeripherals	4	static,ignoring_inline_asm
+../STM32F103C8T6_NVIC/NVIC.c:161:6:NVIC_voidDisableAllPeripherals	4	static,ignoring_inline_asm
+../STM32F103C8T6_NVIC/NVIC.c:168:6:NVIC_voidDisableAllFaults	4	static
+../STM32F103C8T6_NVIC/NVIC.c:174:6:NVIC_voidEnableAllFaults	4	static
+../STM32F103C8T6_NVIC/NVIC.c:179:6:DNVIC_voidSetBASEPRI	16	static,ignoring_inline_asm
