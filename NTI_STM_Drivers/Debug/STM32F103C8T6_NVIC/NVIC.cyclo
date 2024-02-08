@@ -1,0 +1,17 @@
+NVIC.c:15:12:Get_IPRx_Position	1
+NVIC.c:21:12:Get_IPR_reg_num	2
+NVIC.c:25:6:NVIC_void_Init	1
+NVIC.c:34:6:NVIC_EnableIRQ	4
+NVIC.c:51:6:NVIC_DisableIRQ	4
+NVIC.c:67:7:NVIC_SetPendingIRQ	4
+NVIC.c:83:7:NVIC_ClearPendingIRQ	4
+NVIC.c:98:6:NVIC_GetPendingIRQ	4
+NVIC.c:114:7:NVIC_GetActive	4
+NVIC.c:130:6:NVIC_SetPriorityGrouping	1
+NVIC.c:135:6:NVIC_SetPriority	4
+NVIC.c:145:6:NVIC_GetPriority	1
+NVIC.c:155:6:NVIC_voidEnableAllPeripherals	1
+NVIC.c:161:6:NVIC_voidDisableAllPeripherals	1
+NVIC.c:168:6:NVIC_voidDisableAllFaults	1
+NVIC.c:174:6:NVIC_voidEnableAllFaults	1
+NVIC.c:179:6:DNVIC_voidSetBASEPRI	1

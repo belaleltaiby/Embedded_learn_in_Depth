@@ -1,0 +1,9 @@
+../LCD/LCD.c:17:6:LCD_Init	48	static
+../LCD/LCD.c:88:6:LCD_SendChar	16	static
+../LCD/LCD.c:97:6:LCD_SendString	24	static
+../LCD/LCD.c:110:6:LCD_SendCommand	32	static
+../LCD/LCD.c:142:13:LCD_SendData	32	static
+../LCD/LCD.c:173:6:LCD_Clear	8	static
+../LCD/LCD.c:179:6:LCD_writeNumber	24	static
+../LCD/LCD.c:214:6:LCD_GoTo	24	static
+../LCD/LCD.c:239:6:LCD_CustomChar	24	static
